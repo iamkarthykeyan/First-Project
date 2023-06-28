@@ -3,3 +3,5 @@ b=c
 add(a+b)
 print c;
 print a;
+print b
+print d
