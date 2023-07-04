@@ -1,4 +1,4 @@
 # First-Project
-welcome to the interface
+welcome to the UI
 update the details
 then log in 
