@@ -1,3 +1,1 @@
-a=11
-b=11
-print(a+b)
+#The aim is to develop the Mobile App!
