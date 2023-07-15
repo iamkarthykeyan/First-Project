@@ -1,11 +1,11 @@
 #Development codes
 
 # A simple function to calculate the factorial of a number
-def factorial(n):
+def fibanacci(n):
     if n == 0:
         return 1
     else:
-        return n * factorial(n - 1)
+        return n * fibonacci(n - 1)
 
 # A function to calculate the Fibonacci sequence
 def fibonacci(n):
